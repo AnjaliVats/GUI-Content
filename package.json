@@ -1,0 +1,14 @@
+{
+  "name": "doctor-profile-page",
+  "version": "1.0.0",
+  "description": "Modern responsive doctor profile page - React version",
+  "main": "react-app/src/main.jsx",
+  "scripts": {
+    "dev": "cd react-app && npm run dev",
+    "build": "cd react-app && npm run build",
+    "preview": "cd react-app && npm run preview"
+  },
+  "keywords": ["doctor", "profile", "responsive", "healthcare", "react"],
+  "author": "",
+  "license": "MIT"
+}
